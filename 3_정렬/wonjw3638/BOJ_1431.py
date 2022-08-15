@@ -1,4 +1,4 @@
-# 시리얼 번호
+# 1431_시리얼 번호
 
 N = int(input())
 serial = [input() for _ in range(N)]

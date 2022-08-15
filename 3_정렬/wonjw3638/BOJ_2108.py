@@ -1,4 +1,4 @@
-# 통계학
+# 2108_통계학
 
 N = int(input())
 num_list = list()

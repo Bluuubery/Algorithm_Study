@@ -1,4 +1,4 @@
-# 숫자 놀이
+# 1755_숫자 놀이
 
 M, N = list(map(int, input().split()))
 
