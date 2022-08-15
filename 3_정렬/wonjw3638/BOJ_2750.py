@@ -1,3 +1,5 @@
+# 2750_수 정렬하기
+
 N = int(input())
 
 num_list = list()
