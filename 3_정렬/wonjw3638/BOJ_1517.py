@@ -1,4 +1,6 @@
-## 시간 초과!
+# 버블소트
+# 시간 초과!
+
 N = int(input())
 arr = list(map(int, input().split()))
 
