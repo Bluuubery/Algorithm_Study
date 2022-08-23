@@ -13,6 +13,8 @@ compress = {}
 # 압축된 좌표를 key로, 원래 좌표를 value로 하는 딕셔너리를 만든다.
 for i in range(len(no_same)):
     compress[no_same[i]] = i
+# print(compress)
+
 
 # 양식에 맞게 압축된 좌표를 출력해준다.
 for i in coordinate:
