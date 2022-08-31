@@ -17,5 +17,4 @@ for i in range(N):
             if numbers[i] > numbers[j]:
                 lis[i] = max(lis[i], lis[j] + 1)
 
-# print(lis)
 print(max(lis))
