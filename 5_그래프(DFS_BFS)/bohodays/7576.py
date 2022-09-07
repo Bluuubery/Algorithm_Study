@@ -1,4 +1,5 @@
-#7576 토마토
+# 7576 토마토
+
 from collections import deque
 import sys
 
@@ -21,9 +22,13 @@ def bfs():
                     box[nx][ny] = box[x][y] + 1
                     # 새로운 좌표를 큐에 추가
                     queue.append((nx, ny))
+        for k in box:
+            print(k)
+        print()
 
 M, N = map(int, input().split())
 
+# 토마토 정보 추가
 box = []
 for _ in range(N):
     box.append(list(map(int, sys.stdin.readline().split())))
