@@ -17,7 +17,7 @@ dp = [10001] * (K+1)
 # 첫번째 인덱스 0으로 설정
 dp[0] = 0
 
-for coin in coinType:                       # 코인의 종류 만큼 반복
+for coin in coinType:                       # 코인의 종류 만큼 반복 1 5 12
     for i in range(coin, K+1):              # 각 코인으로  만들수 있는 k원의 조합 구하기 (개수)
         dp[i] = min(dp[i], dp[i-coin] + 1)  # 예제에서 5 , 10, 12 때 dp min값 갱신되는거 확인
 
