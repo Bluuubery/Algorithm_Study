@@ -26,6 +26,7 @@ for w, v in arr:
     # 준서가 버틸 수 있는 무게보다 크면 무시
     if w > K:
         continue
+    # 물건의 무게와 1~K의 값을 더해서 K보다 작은지 확인
     for i in range(K, 0, -1):
         if i + w <= K and table[i] != 0:
             table[i+w] = max(table[i+w], table[i] + v)
