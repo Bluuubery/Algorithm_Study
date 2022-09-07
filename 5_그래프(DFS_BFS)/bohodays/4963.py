@@ -34,6 +34,7 @@ def bfs(x, y):
 while True:
     w, h = map(int, input().split())
 
+    # 문제의 종료 조건
     if w == 0 and h == 0:
         break
 

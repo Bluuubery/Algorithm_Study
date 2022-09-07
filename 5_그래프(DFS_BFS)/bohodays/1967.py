@@ -1,3 +1,5 @@
+# 1967 트리의 지름
+
 import sys
 sys.setrecursionlimit(10 ** 9)
 
