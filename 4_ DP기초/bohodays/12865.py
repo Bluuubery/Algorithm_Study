@@ -33,3 +33,6 @@ for w, v in arr:
     table[w] = max(table[w], v)
 print(max(table))
 
+
+
+
