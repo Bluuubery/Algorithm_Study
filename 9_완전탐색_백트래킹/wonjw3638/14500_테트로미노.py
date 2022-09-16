@@ -1,4 +1,5 @@
-# 220916 테트로미노
+# 14500_테트로미노
+# 220916
 
 import sys
 input = sys.stdin.readline
