@@ -19,3 +19,7 @@ for _ in range(T):
             print(i, N-i)
             break
 
+
+
+
+
