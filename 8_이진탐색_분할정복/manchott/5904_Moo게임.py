@@ -10,16 +10,21 @@ while S < N:
 def findmoo(s, n, index):
     # print(s, n, index)
     half = (s - index) // 2 - 1
+    # S(0) 탈출
     if n == 2 or n == 3:
         return 'o'
     elif n == 1 or n == half:
         return 'm'
+    # 앞
     if n < half:
         return findmoo(half, n, index - 1)
+    # 정중앙
     if n == half + 1:
         return 'm'
+    # 재귀에 들어가지 않는 moo
     elif n < half + index + 3:
         return 'o'
+    # 뒤
     else:
         return findmoo(half, n - (half + index + 2), index - 1 )
 print(findmoo(S, N, idx))
