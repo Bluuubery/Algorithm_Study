@@ -23,3 +23,5 @@ for i in range(1, N+1):
         dp[i] = max(dp[i], cards[j] + dp[i-j])
 
 print(dp[i])
+
+
