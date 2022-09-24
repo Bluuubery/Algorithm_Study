@@ -102,7 +102,6 @@
 
 🔸 알고리즘 개념 복습
 
-<br/>
 ## 6. 기타
 
 > 🧭 **참고용 문제 목록 및 링크**
@@ -118,4 +117,3 @@
 > - 알고리즘 자료 및 문제: [https://github.com/dev-dain/Dukgorithm](https://github.com/dev-dain/Dukgorithm)
 >   
 
-</aside>
