@@ -18,41 +18,47 @@
 
 ## 📑 커리큘럼
 
-1. [수학 / 재귀](https://github.com/Bluuubery/Algorithm_Study/tree/master/1_%EC%88%98%ED%95%99_%EC%9E%AC%EA%B7%80)
+### 1. [수학 / 재귀](https://github.com/Bluuubery/Algorithm_Study/tree/master/1_%EC%88%98%ED%95%99_%EC%9E%AC%EA%B7%80)
    - 발표자: 유선준, 김지원
    - 공통문제
      - [2447: 별찍기 10](https://www.acmicpc.net/problem/2447)
      - [9020 골드바흐의 추측](https://www.acmicpc.net/problem/9020)
-2. [자료구조](https://github.com/Bluuubery/Algorithm_Study/tree/master/2_%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)
+### 2. [자료구조](https://github.com/Bluuubery/Algorithm_Study/tree/master/2_%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)
    - 발표자: 박중원, 김도현
    - 공통문제
      - [1715 카드 정렬하기](https://www.acmicpc.net/problem/1715)
-3. [정렬](https://github.com/Bluuubery/Algorithm_Study/tree/master/3_%EC%A0%95%EB%A0%AC)
+
+### 3. [정렬](https://github.com/Bluuubery/Algorithm_Study/tree/master/3_%EC%A0%95%EB%A0%AC)
    - 발표자: 박서영, 유선준
    - 공통문제
      - [18870 좌표압축](https://www.acmicpc.net/problem/18870)
      - [2750 수 정렬하기](https://www.acmicpc.net/problem/2750)
-4. [DP기초](https://github.com/Bluuubery/Algorithm_Study/tree/master/4_%20DP%EA%B8%B0%EC%B4%88)
+
+### 4. [DP기초](https://github.com/Bluuubery/Algorithm_Study/tree/master/4_%20DP%EA%B8%B0%EC%B4%88)
    - 발표자: 김도현, 김지원
    - 공통문제
      - [2294 동전2](https://www.acmicpc.net/problem/2294)
      - [11052 카드 구매하기](https://www.acmicpc.net/problem/11052)
-5. [그래프 (DFS, BFS)](https://github.com/Bluuubery/Algorithm_Study/tree/master/5_%EA%B7%B8%EB%9E%98%ED%94%84(DFS_BFS))
+
+### 5. [그래프 (DFS, BFS)](https://github.com/Bluuubery/Algorithm_Study/tree/master/5_%EA%B7%B8%EB%9E%98%ED%94%84(DFS_BFS))
    - 발표자: 유선준, 박중원
    - 공통문제
      - [1967 트리의 지름](https://www.acmicpc.net/problem/1967)
      - [2206 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
-6. [그리디](https://github.com/Bluuubery/Algorithm_Study/tree/master/7_%EA%B7%B8%EB%A6%AC%EB%94%94)
+
+### 6. [그리디](https://github.com/Bluuubery/Algorithm_Study/tree/master/7_%EA%B7%B8%EB%A6%AC%EB%94%94)
    - 발표자: 박서영, 김지원
    - 공통문제
      - [12904 A와 B](https://www.acmicpc.net/problem/12904)
      - [2212 센서](https://www.acmicpc.net/problem/2212)
-7. [이진탐색 / 분할정복](https://github.com/Bluuubery/Algorithm_Study/tree/master/8_%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89_%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5)
+
+### 7. [이진탐색 / 분할정복](https://github.com/Bluuubery/Algorithm_Study/tree/master/8_%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89_%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5)
    - 발표자: 김도현, 박중원
    - 공통문제
      - [5904 Moo 게임](https://www.acmicpc.net/problem/5904)
      - [2470 두 용액](https://www.acmicpc.net/problem/2470)
-8. [완전탐색 / 백트래킹](https://github.com/Bluuubery/Algorithm_Study/tree/master/9_%EC%99%84%EC%A0%84%ED%83%90%EC%83%89_%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9)
+
+### 8. [완전탐색 / 백트래킹](https://github.com/Bluuubery/Algorithm_Study/tree/master/9_%EC%99%84%EC%A0%84%ED%83%90%EC%83%89_%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9)
    - 발표자: 유선준, 박서영
    - 공통문제
      - [14502 연구소](https://www.acmicpc.net/problem/14502)
