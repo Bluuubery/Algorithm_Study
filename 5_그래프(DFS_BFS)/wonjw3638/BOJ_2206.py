@@ -12,6 +12,7 @@ def bfs():
 
     while queue:
         v = queue.popleft()
+        print(visited)
 
         # 도착점 도착
         if (v[0] == N - 1) and (v[1] == M - 1):
