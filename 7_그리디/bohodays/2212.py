@@ -3,7 +3,6 @@
 N = int(input())
 K = int(input())
 
-# 중복 제거
 sensor = list(map(int, input().split()))
 sensor.sort()
 
