@@ -46,19 +46,19 @@
      - [1967 트리의 지름](https://www.acmicpc.net/problem/1967)
      - [2206 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
 
-### 6. [그리디](https://github.com/Bluuubery/Algorithm_Study/tree/master/7_%EA%B7%B8%EB%A6%AC%EB%94%94)
+### 6. [그리디](https://github.com/Bluuubery/Algorithm_Study/tree/master/6_%EA%B7%B8%EB%A6%AC%EB%94%94)
    - 발표자: 박서영, 김지원
    - 공통문제
      - [12904 A와 B](https://www.acmicpc.net/problem/12904)
      - [2212 센서](https://www.acmicpc.net/problem/2212)
 
-### 7. [이진탐색 / 분할정복](https://github.com/Bluuubery/Algorithm_Study/tree/master/8_%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89_%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5)
+### 7. [이진탐색 / 분할정복](https://github.com/Bluuubery/Algorithm_Study/tree/master/7_%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89_%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5)
    - 발표자: 김도현, 박중원
    - 공통문제
      - [5904 Moo 게임](https://www.acmicpc.net/problem/5904)
      - [2470 두 용액](https://www.acmicpc.net/problem/2470)
 
-### 8. [완전탐색 / 백트래킹](https://github.com/Bluuubery/Algorithm_Study/tree/master/9_%EC%99%84%EC%A0%84%ED%83%90%EC%83%89_%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9)
+### 8. [완전탐색 / 백트래킹](https://github.com/Bluuubery/Algorithm_Study/tree/master/8_%EC%99%84%EC%A0%84%ED%83%90%EC%83%89_%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9)
    - 발표자: 유선준, 박서영
    - 공통문제
      - [14502 연구소](https://www.acmicpc.net/problem/14502)
